@@ -1,6 +1,6 @@
-==============================
-SIMPLE BLOG PROJECT - DJANGO
-==============================
+
+**SIMPLE BLOG PROJECT - DJANGO**
+
 
 Hi there!👋  
 Thank you for checking out this simple blog project built using Django.  
