@@ -27,19 +27,19 @@ Follow these simple steps to run the blog project on your local machine:
    Or clone from GitHub (if provided): https://github.com/vinn27/BlogProject.git
 
 2.  **Create a Virtual Environment**
-It's good practice to use a virtual environment:
+It's good practice to use a virtual environment.
 
 4.  **Run Migrations**
-Setup the database:
+Setup the database. 
 
 5.  **Create Superuser**
-For accessing Django admin panel:
+For accessing Django admin panel.
 
 6. **Run the Development Server**
 Start your server:
 
 7. **Visit the App**
-Open your browser and go to:
+Open your browser and go to Local Server.
 
 
 
