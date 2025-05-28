@@ -30,16 +30,16 @@ Follow these simple steps to run the blog project on your local machine:
 It's good practice to use a virtual environment.
 
 4.  **Run Migrations**
-Setup the database. 
+Setup the database. ( py manage.py makemigrations , py manage.py migrate)
 
 5.  **Create Superuser**
 For accessing Django admin panel.
 
 6. **Run the Development Server**
-Start your server:
+Start your Developement Server ( py manage.py runserver)
 
 7. **Visit the App**
-Open your browser and go to Local Server.
+Open your browser and go to Local Server. (http://127.0.0.1:8000/)
 
 
 
