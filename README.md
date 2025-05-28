@@ -41,7 +41,7 @@ Start your server:
 7. **Visit the App**
 Open your browser and go to:
 
----
+
 
 ------------------------------
 📝FEATURES
@@ -55,7 +55,7 @@ Open your browser and go to:
 - Clean and minimal template design  
 - Uses SQLite database (no setup needed)
 
----
+
 
 ------------------------------
 🛠️TECHNOLOGIES USED
