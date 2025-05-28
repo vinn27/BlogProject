@@ -1,0 +1,16 @@
+<h1>Blog Posts</h1>
+
+<form method="get">
+    <input type="text" name="q" placeholder="Search title or content..." value="{{ request.GET.q }}">
+    <button type="submit">Search</button>
+</form>
+
+<ul>
+    {% for post in posts %}
+        <li><a href="{% url 'post_detail' post.pk %}">{{ post.title }}</a></li>
+    {% empty %}
+        <li>No posts found.</li>
+    {% endfor %}
+</ul>
+
+<a href="{% url 'post_create' %}">Create new post</a>
